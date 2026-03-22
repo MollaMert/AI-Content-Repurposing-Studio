@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-glass: rgba(255, 255, 255, 0.05);
+  --color-glass-border: rgba(255, 255, 255, 0.1);
+  --color-accent: #6366f1;
+  --color-accent-hover: #818cf8;
+}

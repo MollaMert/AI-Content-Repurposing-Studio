@@ -1,0 +1,9 @@
+[0m[0m
+[0m[4mC:\Users\Mert MOLLA\Desktop\AI-CLI\githubdoldurmaca\6-ai-content-repurposing-studio-tier2\src\hooks\useSettings.tsx[24m[0m
+[0m  [2m61:17[22m  [31merror[39m  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  [2mreact-refresh/only-export-components[22m[0m
+[0m[0m
+[0m[4mC:\Users\Mert MOLLA\Desktop\AI-CLI\githubdoldurmaca\6-ai-content-repurposing-studio-tier2\src\lib\ai-client.ts[24m[0m
+[0m  [2m81:26[22m  [31merror[39m  Unexpected any. Specify a different type  [2m@typescript-eslint/no-explicit-any[22m[0m
+[0m[0m
+[0m[31m[1m✖ 2 problems (2 errors, 0 warnings)[22m[39m[0m
+[0m[31m[1m[22m[39m[0m
